@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @BBerkeYildirim
-- 👀 I’m interested in Software Developing
-- 🌱 I’m currently learning Java, Springboot and C
-- 📫 How to reach me 
-- bberke.yildirim@outlook.com
-- batuhanberke.yildirim@gmail.com
-- batuhanberke.yildirim@agu.edu.tr
+Berke
+Full Stack Developer
+Java, Springboot, React.js, React Native, Sql, Python
+
+batuhanberke.yildirim@gmail.com
+batuhanberke.yildirim@agu.edu.tr
 
 <!---
 BBerkeYildirim/BBerkeYildirim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
