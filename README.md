@@ -1,8 +1,13 @@
-Berke
+Berke,
 Full Stack Developer
-Java, Springboot, React.js, React Native, Sql, Python
+- Java
+- Springboot 
+- React.js 
+- React Native 
+- Sql
+- Python
 
-batuhanberke.yildirim@gmail.com
+batuhanberke.yildirim@gmail.com -
 batuhanberke.yildirim@agu.edu.tr
 
 <!---
