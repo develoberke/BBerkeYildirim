@@ -1,9 +1,7 @@
 Berke,
-Full Stack Developer
+Backend Developer
 - Java
-- Springboot 
-- React.js 
-- React Native 
+- Springboot  
 - Sql
 - Python
 
