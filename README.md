@@ -2,11 +2,12 @@ Berke,
 Backend Developer
 - Java
 - Springboot  
-- Sql
-- Python
+- C#, .NET
+- SQL
 
 batuhanberke.yildirim@gmail.com -
-batuhanberke.yildirim@agu.edu.tr
+batuhanberke.yildirim@agu.edu.tr -
+develoberke@gmail.com
 
 My Online Menu System Link: www.sanal.menu
 <!---
