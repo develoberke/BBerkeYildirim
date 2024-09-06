@@ -1,9 +1,8 @@
-Berke,
-Backend Developer
-- Java
-- Springboot  
+# Backend Developer
+- Java & Kotlin, Springboot  
 - C#, .NET
-- SQL
+- SQL, NoSql
+- Microservices architecture
 
 batuhanberke.yildirim@gmail.com -
 batuhanberke.yildirim@agu.edu.tr -
