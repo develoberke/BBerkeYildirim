@@ -1,7 +1,7 @@
 # Backend Developer
 - Java & Kotlin, Springboot  
 - C#, .NET
-- SQL, NoSql
+- SQL, NoSQL
 - Microservices architecture
 
 batuhanberke.yildirim@gmail.com -
